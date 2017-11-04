@@ -1,1 +1,1 @@
-# bitcloudcoin
+# cloudcoin
